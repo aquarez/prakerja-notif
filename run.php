@@ -11,7 +11,7 @@ error_reporting(0);
 /**
  * Config
  */
-define("BOT_TOKEN", "ISI DISINI");
+define("BOT_TOKEN", "5444932574:AAG5Ii-qakgTexoffLVAVIIxO2_kDsfPjVM");
 define("SLEEP_IN_MINUTES", 3); //dicek setiap 3 menit
 
 class curl {
